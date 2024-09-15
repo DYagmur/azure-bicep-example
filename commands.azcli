@@ -1,6 +1,6 @@
 #Deploy an ARM template
 az deployment group create \
---resource-group my-bicep-rg \
+--resource-group learn-75900121-c50e-4fa1-8be0-3edeadfcbd67 \
 --template-file main.json
 
 
